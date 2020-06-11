@@ -58,7 +58,7 @@ class _StartScreenState extends State<StartScreen> {
 
   Text _buildSecondChild() {
     return Text.rich(TextSpan(
-      text: "Lets  ",
+      text: "Lets ",
       style: TextStyle(
           color: Colors.grey.shade700,
           fontWeight: FontWeight.bold,
